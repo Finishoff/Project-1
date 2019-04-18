@@ -1,3 +1,6 @@
+![Screenshot of app](https://github.com/dev-lam/BBB/blob/master/assets/images/BBB.png)
+
+
 # Beers, Brew & Burgers! [BBB!]
 * Looking to get some alcoholic beverage? Tea? or some burgers?
 * This application allows users to search using their zipcode or city location for nearby drinks or food.
